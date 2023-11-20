@@ -1,0 +1,7 @@
+
+
+const details = [
+
+]
+
+export { details }
